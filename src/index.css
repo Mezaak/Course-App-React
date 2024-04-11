@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(28, 101, 184);
+    background-image: url("./images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
