@@ -29,7 +29,7 @@
 
 ![Screen Shot](https://raw.githubusercontent.com/Mezaak/Course-App-React/main/demo.png)
 
-This project build with react + vite and deployed to github pages for testing purposes
+This project builded with React + Vite and deployed to github pages for testing purposes
 
 
 ## Built With
@@ -42,7 +42,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mezaak/Cours
 
 ## Authors
 
- **Boran Akkaya** - *Front-End Developer* - [Mezaak](https://github.com/Mezaak) -
+ **Boran Akkaya** - *Front-End Developer* - [Mezaak](https://github.com/Mezaak)
 
 
  You can check the website here : https://mezaak.github.io/Course-App-React/
