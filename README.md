@@ -10,7 +10,7 @@
     Simple React Website
     <br/>
     <br/>
-    <a href="https://mezaak.github.io/Course-App-React/ target="_blank">View Demo</a>
+    <a href="https://mezaak.github.io/Course-App-React/" target="_blank">View Demo</a>
     
   </p>
 </p>
